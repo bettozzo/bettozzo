@@ -46,6 +46,12 @@ Pronouns: he/him
 
 ### :dart: My Projects:
 
+- 🦾 ClawMachine
+
+  - A claw machine developed with embedded C.
+  - Project developed in collaboration with 3 fellow students for the "Embedded Software for the Internet Of Things" course at UniTN.
+  - [Link to repo](https://github.com/Clown-Machine/ClawMachine)
+
 - 🔀Spotify Shuffler
 
   - Uses Python to fetch data from the Spotify API and creates a new (randomly) shuffled playlist
@@ -59,11 +65,7 @@ Pronouns: he/him
   - Project developed in collaboration with 3 fellow students for the "Introduzione alla Programmazione Web" course at UniTN
   - [Link to repo](https://github.com/bettozzo/ProgettoWebUniTN)
 
-- 🦾 ClawMachine
-  - A claw machine developed with embedded C.
-  - Project developed in collaboration with 3 fellow students for the "Embedded Software for the Internet Of Things" course at UniTN.
-  - [Link to repo](https://github.com/Clown-Machine/ClawMachine)
-
 ### :email: Contact me here
 
-- <alberto.cimmino@studenti.unitn.it>
+- <alberto.cimmino.abc@gmail.com>
+- [Linkedin](https://www.linkedin.com/in/alberto-cimmino-112ba92b1/)
