@@ -48,7 +48,7 @@ Pronouns: he/him
 
 ### :dart: My Projects:
 
-- 📱 Non ci resta che Guardare
+- 📱 Non ci Resta che Guardare
 
   - Android app to note down movies and Tv Series to watch
   - Project developed for the "Laboratorio di programmazione per sistemi mobili e tablet" course at UniTN, and later continued as a personal project.
